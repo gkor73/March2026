@@ -5,10 +5,12 @@
 Created by [**Gerasimos Koronakis**]
 *16/03/26*
 
-* # Greece
-
-* # Corfu
-
 * # Skripero Village
 
+* ## Corfu
+
+* ### Greece
+
 ## [Visit Skripero Village in Corfu](https://maps.app.goo.gl/d7dBo2yQ7rzsRzVV6)
+
+
